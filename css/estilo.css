@@ -1,50 +1,50 @@
 body {
-    color: #333; /* Color de texto */
+    color: #333; 
     text-align: center;
-    font-family: "Arial", sans-serif; /* Fuente Arial */
+    font-family: "Arial", sans-serif; 
     font-size: 16px;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9; /* Fondo gris claro */
+    background-color: #f9f9f9; 
 }
 
-/* Contenedor principal */
+
 #container {
-    width: 80%; /* Ancho ajustado para mayor visibilidad */
-    padding: 0; /* Eliminamos el padding general */
-    text-align: left; /* Texto alineado a la izquierda */
-    margin: 20px auto; /* Centrado horizontal y margen superior */
-    border: none; /* Eliminamos el borde */
-    background-color: white; /* Fondo blanco */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil */
-    border-radius: 8px; /* Bordes redondeados */
+    width: 80%; 
+    padding: 0; 
+    text-align: left; 
+    margin: 20px auto; 
+    border: none; 
+    background-color: white; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
 }
 
-/* Cabecera */
+
 #cabecera {
-    background-color: #2b3d93; /* Fondo azul */
-    color: white; /* Texto blanco */
-    font-size: 18px; /* Tamaño de texto */
-    font-weight: bold; /* Texto en negrita */
-    padding: 10px 20px; /* Espaciado interno */
-    border-radius: 8px 8px 0 0; /* Bordes superiores redondeados */
-    text-align: left; /* Texto alineado a la izquierda */
+    background-color: #2b3d93;
+    color: white; 
+    font-size: 18px; 
+    font-weight: bold; 
+    padding: 10px 20px; 
+    border-radius: 8px 8px 0 0; 
+    text-align: left; 
 }
 
-/* Título del post */
+
 #container h1 {
-    font-size: 24px; /* Tamaño más grande para el título */
-    color: #333; /* Color oscuro */
-    margin: 20px 0 10px 0; /* Espaciado arriba y abajo */
-    text-align: left; /* Alineación a la izquierda */
-    padding-left: 20px; /* Espaciado interno izquierdo */
+    font-size: 24px; 
+    color: #333; 
+    margin: 20px 0 10px 0; 
+    text-align: left; 
+    padding-left: 20px; 
 }
 
-/* Párrafo del post */
+
 #container p {
-    font-size: 16px; /* Tamaño estándar */
-    color: #555; /* Color gris oscuro */
-    line-height: 1.6; /* Altura de línea */
-    margin: 0 20px 20px; /* Espaciado del texto */
-    text-align: justify; /* Justificación del texto */
+    font-size: 16px; 
+    color: #555; 
+    line-height: 1.6; 
+    margin: 0 20px 20px; 
+    text-align: justify; 
 }
