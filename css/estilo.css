@@ -1,5 +1,4 @@
-body
-{
+body {
     color: #333; 
    text-align: center;
    font-family: Courier; 
@@ -17,9 +16,44 @@ body
  margin: 0 auto;
 }
 
-#container h1 
-{
 
-font-size: 20px;
+#container {
+    width: 80%; 
+    padding: 0; 
+    text-align: left; 
+    margin: 20px auto; 
+    border: none; 
+    background-color: white; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+}
 
+
+#cabecera {
+    background-color: #2b3d93;
+    color: white; 
+    font-size: 18px; 
+    font-weight: bold; 
+    padding: 10px 20px; 
+    border-radius: 8px 8px 0 0; 
+    text-align: left; 
+}
+
+
+#container h1 {
+    font-size: 24px; 
+    color: #333; 
+    margin: 20px 0 10px 0; 
+    text-align: left; 
+    padding-left: 20px; 
+}
+
+
+#container p {
+    font-size: 16px; 
+    color: #555; 
+    line-height: 1.6; 
+    margin: 0 20px 20px; 
+    text-align: justify; 
+    
 }
